@@ -1,22 +1,22 @@
 {
   "app": {
-    "version": "87de0e7a",
-    "versionCode": "284",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/app-release.apk",
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
+    "version": "87de0e7",
+    "versionCode": "285",
+    "link": "https://raw.githubusercontent.com/shekhawat2/magisk_files/custom/app-release.apk",
+    "note": "https://raw.githubusercontent.com/shekhawat2/magisk_files/custom/notes.md"
   },
   "magisk": {
-    "version": "e02e46d0",
-    "versionCode": "20414",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-release.zip",
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
-    "md5": "868e6e0ba73a28c2eead8e3fb4d8b4ee"
+    "version": "ac187964",
+    "versionCode": "20416",
+    "link": "https://raw.githubusercontent.com/shekhawat2/magisk_files/custom/magisk-release.zip",
+    "note": "https://raw.githubusercontent.com/shekhawat2/magisk_files/custom/notes.md",
+    "md5": "835048864ee48a2a4fc504e49b3654fb"
   },
   "uninstaller": {
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
+    "link": "https://raw.githubusercontent.com/shekhawat2/magisk_files/custom/magisk-uninstaller.zip"
   },
   "stub": {
     "versionCode": "9",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/stub-release.apk"
+    "link": "https://raw.githubusercontent.com/shekhawat2/magisk_files/custom/stub-release.apk"
   }
 }
